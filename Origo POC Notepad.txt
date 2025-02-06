@@ -1,5 +1,2 @@
 Origo POC Notepad
 
-Development change example 2
-
-Beta changes x 2
